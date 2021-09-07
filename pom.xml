@@ -17,7 +17,7 @@
         <tag>@{project.version}</tag>
 
     </scm>
-
+<!--test-->
     <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>
